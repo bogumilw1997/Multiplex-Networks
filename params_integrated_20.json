@@ -1,0 +1,16 @@
+{
+    "save_path_local":"semestr3/WSZ/programy/output/",
+    "N":10000,
+    "m":5,
+    "T":61,
+    "integration_steps":20,
+    "lambd_min":0.01,
+    "lambd_max":0.085,
+    "lambd_points":10,
+    "mu":0.1,
+    "eta":10,
+    "epsilon":0.001,
+    "gamma":2.1,
+    "p0":0.05,
+    "realizations":2
+}
